@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: TensionSpline
+Version: 0.0.1
+Summary: A Tension Spline Implementation for C++
+Author: Okwuchukwu Nwobi
+Author-email: Okwuchukwu Nwobi <dnwobi1@gmail.com>
+Requires-Python: >=3.7
+License-File: LICENSE

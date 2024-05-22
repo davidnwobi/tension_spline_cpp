@@ -1,0 +1,5 @@
+# ninja log v5
+2	1046	7380606027263321	CMakeFiles/TensionSpline.dir/main.cpp.obj	35fdd5275a3ee5b5
+4	7845	7380606095049530	src/CMakeFiles/tension_spline.dir/tension_spline.cpp.obj	5e5b7f2b18c023d1
+7845	8197	7380606098837509	src/libtension_spline.a	24e897a1c80e9222
+8197	8557	7380606102324581	TensionSpline.exe	97bd7d68dd329674

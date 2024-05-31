@@ -1,9 +1,0 @@
-LICENSE
-README.md
-pyproject.toml
-setup.py
-TensionSpline.egg-info/PKG-INFO
-TensionSpline.egg-info/SOURCES.txt
-TensionSpline.egg-info/dependency_links.txt
-TensionSpline.egg-info/not-zip-safe
-TensionSpline.egg-info/top_level.txt

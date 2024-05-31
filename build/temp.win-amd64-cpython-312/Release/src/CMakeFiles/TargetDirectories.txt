@@ -1,5 +1,0 @@
-C:/Users/dnwob/GitHub/tension_spline_cpp/build/temp.win-amd64-cpython-312/Release/src/CMakeFiles/tension_spline_cpp.dir
-C:/Users/dnwob/GitHub/tension_spline_cpp/build/temp.win-amd64-cpython-312/Release/src/CMakeFiles/ALL_BUILD.dir
-C:/Users/dnwob/GitHub/tension_spline_cpp/build/temp.win-amd64-cpython-312/Release/src/CMakeFiles/ZERO_CHECK.dir
-C:/Users/dnwob/GitHub/tension_spline_cpp/build/temp.win-amd64-cpython-312/Release/src/src/CMakeFiles/tension_spline.dir
-C:/Users/dnwob/GitHub/tension_spline_cpp/build/temp.win-amd64-cpython-312/Release/src/pybind11/CMakeFiles/ALL_BUILD.dir

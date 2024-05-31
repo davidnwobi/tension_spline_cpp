@@ -11,7 +11,7 @@ git submodule add https://github.com/davidnwobi/tension_spline_cpp.git
 ```
 ```cmake
 # For the library specifically
-set(EIGEN3_INCLUDE_DIR C:/Users/dnwob/GitHub/eigen) # Path to Eigen3
+set(EIGEN3_INCLUDE_DIR /path/to/eigen3)
 add_subdirectory(tension_spline_cpp)            # Add the library
 include_directories(tension_spline_cpp/include) # Include the header files
 target_link_libraries(yourtarget PUBLIC TensionSpline your_other_libraries) # Link the library

@@ -7,14 +7,14 @@ A Tension Spline Library for C++. Read the theory on Tension Splines [here](Math
 # Basic Usage
 Fetch the library using `git submodule`:
 ```bash
-    git submodule add https://github.com/davidnwobi/tension_spline_cpp.git
+git submodule add https://github.com/davidnwobi/tension_spline_cpp.git
 ```
 ```cmake
-    # For the library specifically
-    set(EIGEN3_INCLUDE_DIR C:/Users/dnwob/GitHub/eigen) # Path to Eigen3
-    add_subdirectory(tension_spline_cpp)            # Add the library
-    include_directories(tension_spline_cpp/include) # Include the header files
-    target_link_libraries(yourtarget PUBLIC TensionSpline your_other_libraries) # Link the library
+# For the library specifically
+set(EIGEN3_INCLUDE_DIR C:/Users/dnwob/GitHub/eigen) # Path to Eigen3
+add_subdirectory(tension_spline_cpp)            # Add the library
+include_directories(tension_spline_cpp/include) # Include the header files
+target_link_libraries(yourtarget PUBLIC TensionSpline your_other_libraries) # Link the library
 ```
 
 # Example

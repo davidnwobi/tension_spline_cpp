@@ -5,9 +5,9 @@ A Tension Spline Library for C++. Read the theory on Tension Splines [here](Math
 - Eigen3
 
 # Basic Usage
-Fetch the library using `git submodule`:
+Fetch the library using `git clone` or a `git submodule add` if you prefer.
 ```bash
-git submodule add https://github.com/davidnwobi/tension_spline_cpp.git
+git clone https://github.com/davidnwobi/tension_spline_cpp.git
 ```
 ```cmake
 # For the library specifically

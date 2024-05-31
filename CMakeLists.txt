@@ -21,7 +21,7 @@ target_include_directories(TensionSpline PUBLIC include)
 target_link_libraries(TensionSpline PUBLIC)
 # target_compile_options(TensionSpline PRIVATE -O3)
 
-# GOOGLE TEST
+# GOOGLETEST
 include(FetchContent)
 FetchContent_Declare(
   googletest
